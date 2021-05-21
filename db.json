@@ -1,6 +1,10 @@
 {
-  "phone": "+7-999-999-99-99",
-  "login": "abc",
-  "password": "123",
-  "smsCode": "4444"
+  "users":[
+    {
+    "phone": "+7-999-999-99-99",
+    "login": "abc",
+    "password": "123",
+    "smsCode": "4444"
+    }
+  ]
 }
